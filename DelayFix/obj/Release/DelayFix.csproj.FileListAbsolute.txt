@@ -1,0 +1,14 @@
+D:\someshit\DelayFix\DelayFix\bin\Release\DelayFix.exe.config
+D:\someshit\DelayFix\DelayFix\bin\Release\DelayFix.exe
+D:\someshit\DelayFix\DelayFix\bin\Release\DelayFix.pdb
+D:\someshit\DelayFix\DelayFix\bin\Release\Siticone.Desktop.UI.dll
+D:\someshit\DelayFix\DelayFix\obj\Release\DelayFix.csproj.AssemblyReference.cache
+D:\someshit\DelayFix\DelayFix\obj\Release\DelayFix.Properties.Resources.resources
+D:\someshit\DelayFix\DelayFix\obj\Release\DelayFix.csproj.GenerateResource.cache
+D:\someshit\DelayFix\DelayFix\obj\Release\DelayFix.csproj.CoreCompileInputs.cache
+D:\someshit\DelayFix\DelayFix\obj\Release\DelayFix.csproj.Up2Date
+D:\someshit\DelayFix\DelayFix\obj\Release\DelayFix.exe
+D:\someshit\DelayFix\DelayFix\obj\Release\DelayFix.pdb
+D:\someshit\DelayFix\DelayFix\obj\Release\DelayFix.Menu.resources
+D:\someshit\DelayFix\DelayFix\bin\Release\Newtonsoft.Json.dll
+D:\someshit\DelayFix\DelayFix\bin\Release\Newtonsoft.Json.xml

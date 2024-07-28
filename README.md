@@ -5,3 +5,7 @@ inspired by FilterkeysSetter, it basically reduces the repetition and keystroke 
 
 # Screenshots
 
+![asd1](https://raw.githubusercontent.com/zjuvee/InputFixer/main/Screenshot_4.png)
+![asd2](https://raw.githubusercontent.com/zjuvee/InputFixer/main/Screenshot_4.png)
+![asd3](https://raw.githubusercontent.com/zjuvee/InputFixer/main/Screenshot_7.png)
+![asd4](https://raw.githubusercontent.com/zjuvee/InputFixer/main/Screenshot_8.png)
